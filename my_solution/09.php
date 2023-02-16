@@ -4,7 +4,7 @@
 
  <?php
  
- $Mystring = "<b> I can by myself flowers. </b>";
+ $Mystring = "<b> I can buy myself flowers. </b>";
  $vowels = array("a","e","i", "o", "u", "A", "E", "I", "O", "U");
 
  $Mystring = str_replace($vowels, "", $Mystring);

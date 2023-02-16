@@ -7,7 +7,7 @@
  $sum_of_digit = 0;
  $number = "4567";
 
-//strlen - return the length of the string.
+//strlen function - return the length of the string.
  for ($i = 0; $i < strlen($number); $i++)
  {
     $sum_of_digit += $number[$i];
