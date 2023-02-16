@@ -3,7 +3,7 @@
 -->
 <?php
 
-$num = array(1, 2, 3, 4, 5, 6, 7);
+$num = array(4,6,8,10,14);
 $average = findAvg($num);
 
 function findAvg($num) {

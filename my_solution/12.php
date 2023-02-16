@@ -9,7 +9,7 @@ $pass = generatePassword(8);
 function generatePassword($length) {
   $chars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789~!@#$%^&*()_+{}[]\|:;"<>,.?/';
 
-//   initialize a empty string called $password.
+//   initialize a empty string called $pass.
   $pass = '';
   $i = 0;
 
